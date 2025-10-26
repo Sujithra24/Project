@@ -13,16 +13,16 @@ Why Bootstrap is Used
 What this Project Does
 Displays a registration form for the user to fill:
 
-👤First Name
-👤Last Name
-⚧Gender
-📞Phone Number
-✉️Email
-🔒Password
+1.First Name
+2.Last Name
+3.Gender
+4.Phone Number
+5.Email
+6.Password
 
 When submitted:
 ✅Validates the input using JavaScript and PHP.
-🔑Hashes the password for security.
+.Hashes the password for security.
 .Stores all information in a MySQL database (XAMPP).
 ✅The form disappears after successful registration, showing a success message.
 
@@ -40,12 +40,12 @@ How it Works:
 .Table name: sign
 
 Stores user information:
-👤firstName
-👤lastName
-⚧gender
-📞number
-✉️email
-🔑password (hashed)
+.firstName
+.lastName
+.gender
+.number
+.email
+.password (hashed)
 
 📁File Structure:
 
@@ -99,7 +99,7 @@ The form disappears.
 .Server-side validation ensures data integrity and prevents invalid entries.
 
 Future Improvements:
-⚠️Check for duplicate email addresses before registration.
-🔒Add password strength meter.
-✉️Add email verification and login system.
-📊Add a dashboard to view registered users.
+.Check for duplicate email addresses before registration.
+.Add password strength meter.
+.Add email verification and login system.
+.Add a dashboard to view registered users.
