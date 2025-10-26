@@ -6,8 +6,9 @@ Why Bootstrap is Used
 
 📱Bootstrap is used in this project to:
 .Make the form responsive, so it looks good on desktop, tablet, and mobile.
-.Provide modern styling without writing a lot of custom CSS.🧩Use prebuilt components like buttons, form fields, and alerts for a clean design.
-⏱️Save development time while keeping the layout professional.
+.Provide modern styling without writing a lot of custom CSS.
+.Use prebuilt components like buttons, form fields, and alerts for a clean design.
+.Save development time while keeping the layout professional.
 
 What this Project Does
 Displays a registration form for the user to fill:
@@ -22,7 +23,7 @@ Displays a registration form for the user to fill:
 When submitted:
 ✅Validates the input using JavaScript and PHP.
 🔑Hashes the password for security.
-💾Stores all information in a MySQL database (XAMPP).
+.Stores all information in a MySQL database (XAMPP).
 ✅The form disappears after successful registration, showing a success message.
 
 How it Works:
