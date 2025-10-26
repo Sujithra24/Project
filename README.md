@@ -6,8 +6,7 @@ Why Bootstrap is Used
 
 📱Bootstrap is used in this project to:
 .Make the form responsive, so it looks good on desktop, tablet, and mobile.
-.Provide modern styling without writing a lot of custom CSS.
-🧩Use prebuilt components like buttons, form fields, and alerts for a clean design.
+.Provide modern styling without writing a lot of custom CSS.🧩Use prebuilt components like buttons, form fields, and alerts for a clean design.
 ⏱️Save development time while keeping the layout professional.
 
 What this Project Does
